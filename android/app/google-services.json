@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779409015189",
+    "project_id": "erkan-test",
+    "storage_bucket": "erkan-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779409015189:android:ab1ece782929a09432f69c",
+        "android_client_info": {
+          "package_name": "com.lazymeerkat.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779409015189-c9uddah65e2al18bgslh8aaqcdhc3jsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv7bWA1QCRM7xe4fHD9zIFqbjiascOujg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779409015189-c9uddah65e2al18bgslh8aaqcdhc3jsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
